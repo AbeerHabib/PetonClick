@@ -105,7 +105,6 @@ Twitter, Snapchat, etc.
 </p>
 
 # Tools & Technologies
-
 - Project Management
 <img src="https://user-images.githubusercontent.com/85819577/212898644-83145ec7-7c46-40d3-818f-af49b8afd211.png" width="200" height="100"/>
 
@@ -121,3 +120,9 @@ Twitter, Snapchat, etc.
 <img src="https://user-images.githubusercontent.com/85819577/212899225-9868cbd1-ad1b-4dc3-8172-20fa6b2f393a.png" width="180" height="60"/>
 </br>
 <img src="https://user-images.githubusercontent.com/85819577/191289789-4d0580f6-6cdd-4d6c-bf23-6923579767d5.png" width="80" height="80"/>
+
+
+# Team Members
+- Abeer Alnakhli
+- Atheer Bohassan
+- Rehab Alshehri
