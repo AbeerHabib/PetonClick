@@ -112,7 +112,7 @@ Twitter, Snapchat, etc.
 <img src="https://user-images.githubusercontent.com/85819577/212898892-e0d75b10-4ee0-4c4c-9570-a13ab7c9bb8e.png" width="200" height="120"/>
 
 - Design
-<img src="https://user-images.githubusercontent.com/85819577/212899054-251990a0-b389-4071-9c2e-e5b5ca872777.png" width="300" height="70"/>
+<img src="https://user-images.githubusercontent.com/85819577/212899054-251990a0-b389-4071-9c2e-e5b5ca872777.png" width="250" height="70"/>
 </br>
 <img src="https://user-images.githubusercontent.com/85819577/212899095-f75556de-3ac8-4c23-9692-351a31919605.png" width="150" height="90"/>
 
