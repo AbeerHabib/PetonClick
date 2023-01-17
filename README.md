@@ -5,7 +5,7 @@
 <p align="justify">
 <ul>
 <li><b>Brief Description</b></li>
-Pet on Click is an app that aims to promote the adoption of pets. The app connects people who offer their pets for adoption and people who want to adopt, as the app allows you to sort the results by region, type, age, and gender of the pet. The app provides pet supplies and immediate consultation service with a veterinarian.
+<b>Pet on Click</b> is an app that aims to promote the adoption of pets. The app connects people who offer their pets for adoption and people who want to adopt, as the app allows you to sort the results by region, type, age, and gender of the pet. The app provides pet supplies and immediate consultation service with a veterinarian.
 
 
 <li><b>Objectives</b></li>
