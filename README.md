@@ -30,12 +30,11 @@ Our customers are individuals between the ages of 21-40, with average income or 
 <li><b>Potential Clients</b></li>
 The number of potential clients who live in the area where we want to operate ranges from 3,000 to 5,000. Potential customers currently adopt through shelters, associations, or through accounts on social media such as Twitter, they buy pet supplies from physical stores or online stores. Pet owners seek medical advice from a local vet or an online vet. Potential customers are willing to pay affordable prices for our products, the product prices range from a minimum of 5 SR to a maximum of 250 SR.
 </ul>
-
+</ul>
 </br>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/85819577/212890665-a065245f-3874-480e-92c3-738ae9c2f352.png" width="600" height="300"/></p>
-
 What distinguishes the app from other apps is that it combines 4 services in one platform that no other app has ever done.
+<p align="center"><img src="https://user-images.githubusercontent.com/85819577/212890665-a065245f-3874-480e-92c3-738ae9c2f352.png" width="600" height="300"/></p>
 
 # Functional & Non-fuctional Requirements
 <p align="justify">
@@ -92,6 +91,7 @@ Preview the app from these links:
 <ul>
 <li>https://lnkd.in/dJieJ32n</li>
 <li>https://lnkd.in/dT-2qQNf</li>
+</ul>
 </p>
 
 # Scrum Board
